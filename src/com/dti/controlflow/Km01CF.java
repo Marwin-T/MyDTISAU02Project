@@ -49,5 +49,6 @@ public class Km01CF {
             default:
                 System.out.println("Have Not DaTa");
         }
+        System.out.println("+++++++++++++");
     }
 }
